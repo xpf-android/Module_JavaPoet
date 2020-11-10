@@ -1,0 +1,4 @@
+rootProject.name='Module_JavaPoet'
+include ':app'
+include ':annotation'
+include ':compiler'
